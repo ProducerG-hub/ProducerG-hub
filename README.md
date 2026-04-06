@@ -10,12 +10,28 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Develop practical web solutions for business use cases.
 
 ## Tech Stack
-- Backend: Node.js, Express.js | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-- Database: PostgreSQL, MongoDB | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- Languages: JavaScript, Python, HTML, Embedded JavaScript, CSS | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Embedded JavaScript](https://img.shields.io/badge/Embedded%20JavaScript-339933?style=flat&logo=node.js&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- Version Control: Git, GitHub | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- Tools: Postman, Visual Studio Code | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+- Backend: Node.js, Express.js
+- Database: PostgreSQL, MongoDB
+- Languages: JavaScript, Python, HTML, Embedded JavaScript, CSS
+- Version Control: Git, GitHub
+- Tools: Postman, Visual Studio Code
 - Other Focus Areas: API design, payment integration, authentication, system architecture and Graphic design
+
+<p style="text-align: left;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/EJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Embedded JavaScript" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40" style="border-radius: 999px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" height="40" style="border-radius: 999px; margin: 4px;" />
+</p>
 
 ## Featured Projects
 - [authentication-system-api](https://github.com/ProducerG-hub/authentication-system-api)
