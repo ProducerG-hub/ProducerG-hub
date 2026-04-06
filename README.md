@@ -20,7 +20,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,python,javascript,python,html,css,git,github,postman,vscode,pixellab&theme=light)](https://skillicons.dev)
 
 ## Featured Projects
-<table cellspacing="12" cellpadding="8">
+<table cellspacing="15" cellpadding="10">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 14px; box-shadow: 0 8px 18px rgba(27, 31, 36, 0.12);">
       <a href="https://github.com/ProducerG-hub/authentication-system-api">
