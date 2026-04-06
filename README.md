@@ -20,14 +20,44 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,python,javascript,python,html,css,git,github,postman,vscode,pixellab&theme=light)](https://skillicons.dev)
 
 ## Featured Projects
-- [authentication-system-api](https://github.com/ProducerG-hub/authentication-system-api)
-  - Production-style authentication system built with Node.js and PostgreSQL.
-- [payment_integration](https://github.com/ProducerG-hub/payment_integration)
-  - Practical payment integration patterns for real-world backend systems.
-- [mluetechnology_website](https://github.com/ProducerG-hub/mluetechnology_website)
-  - Official website project for Mlue Technology.
-- [node_js-Vs-PostgreSQL](https://github.com/ProducerG-hub/node_js-Vs-PostgreSQL)
-  - Example project showing PostgreSQL integration in an Express/Node app.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ProducerG-hub/authentication-system-api">
+        <img src="https://opengraph.githubassets.com/main/ProducerG-hub/authentication-system-api" alt="authentication-system-api preview" />
+      </a>
+      <h3>authentication-system-api</h3>
+      <p>Production-style authentication API built with Node.js and PostgreSQL, focused on secure user flows and backend best practices.</p>
+      <p><a href="https://github.com/ProducerG-hub/authentication-system-api">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ProducerG-hub/payment_integration">
+        <img src="https://opengraph.githubassets.com/main/ProducerG-hub/payment_integration" alt="payment_integration preview" />
+      </a>
+      <h3>payment_integration</h3>
+      <p>Practical payment integration patterns for real-world backend systems, including transaction flows and API integration strategies.</p>
+      <p><a href="https://github.com/ProducerG-hub/payment_integration">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ProducerG-hub/mluetechnology_website">
+        <img src="https://opengraph.githubassets.com/main/ProducerG-hub/mluetechnology_website" alt="mluetechnology_website preview" />
+      </a>
+      <h3>mluetechnology_website</h3>
+      <p>Official website project for Mlue Technology, built to present services and strengthen the brand's online presence.</p>
+      <p><a href="https://github.com/ProducerG-hub/mluetechnology_website">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ProducerG-hub/node_js-Vs-PostgreSQL">
+        <img src="https://opengraph.githubassets.com/main/ProducerG-hub/node_js-Vs-PostgreSQL" alt="node_js-Vs-PostgreSQL preview" />
+      </a>
+      <h3>node_js-Vs-PostgreSQL</h3>
+      <p>Example project demonstrating PostgreSQL integration in an Express and Node.js application with practical backend structure.</p>
+      <p><a href="https://github.com/ProducerG-hub/node_js-Vs-PostgreSQL">View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 - Building production-ready backend systems.
