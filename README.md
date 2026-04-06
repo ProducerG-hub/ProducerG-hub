@@ -13,6 +13,8 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Backend: Node.js, Express.js
 - Database: PostgreSQL, MongoDB
 - Languages: JavaScript, Python, HTML, Embedded JavaScript
+- Version Control: Git, GitHub
+- Tools: Postman, Visual Studio Code
 - Other Focus Areas: API design, payment integration, authentication, system architecture
 
 ## Featured Projects
@@ -36,7 +38,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Email: [gwamakamwakabuta@gmail.com](mailto:gwamakamwakabuta@gmail.com)
 
 ## GitHub Stats
-![Gwamaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProducerG-hub&show_icons=true&hide_border=true)
+![Gwamaka's Stats](https://github-readme-stats.vercel.app/api?username=ProducerG-hub&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProducerG-hub&layout=compact&hide_border=true)
 
