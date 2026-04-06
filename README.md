@@ -10,11 +10,11 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Develop practical web solutions for business use cases.
 
 ## Tech Stack
-- Backend: Node.js, Express.js
-- Database: PostgreSQL, MongoDB
-- Languages: JavaScript, Python, HTML, Embedded JavaScript
-- Version Control: Git, GitHub
-- Tools: Postman, Visual Studio Code
+- Backend: Node.js ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white), Express.js ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+- Database: PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white), MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- Languages: JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white), Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), HTML ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white), Embedded JavaScript ![Embedded JavaScript](https://img.shields.io/badge/Embedded%20JavaScript-339933?style=flat&logo=node.js&logoColor=white)
+- Version Control: Git ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), GitHub ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- Tools: Postman ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white), Visual Studio Code ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 - Other Focus Areas: API design, payment integration, authentication, system architecture
 
 ## Featured Projects
