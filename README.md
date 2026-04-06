@@ -70,17 +70,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Email: [gwamakamwakabuta@gmail.com](mailto:gwamakamwakabuta@gmail.com)
 
 ## GitHub Stats
-<p>
-  <a href="https://github.com/ProducerG-hub">
-    <img src="https://opengraph.githubassets.com/main/https://github.com/ProducerG-hub" alt="ProducerG-hub profile snapshot" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/ProducerG-hub?tab=repositories">
-    <img src="https://opengraph.githubassets.com/main/https://github.com/ProducerG-hub?tab=repositories" alt="ProducerG-hub repositories snapshot" />
-  </a>
-</p>
+![Gwamaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProducerG-hub&show_icons=true&theme=radical)
 
 ---
 If you are interested in collaboration, open-source contributions, or backend project support, feel free to connect.
