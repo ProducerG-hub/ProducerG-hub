@@ -28,7 +28,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
       </a>
       <h3>authentication-system-api</h3>
       <p>Production-style authentication API built with Node.js and PostgreSQL, focused on secure user flows and backend best practices.</p>
-      <p><a href="https://github.com/ProducerG-hub/authentication-system-api">View Repository</a></p>
+      <a href="https://github.com/ProducerG-hub/authentication-system-api" style="display: inline-block; padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background-color 0.2s;">View Repository</a>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 14px; box-shadow: 0 8px 18px rgba(27, 31, 36, 0.12);">
       <a href="https://github.com/ProducerG-hub/payment_integration">
@@ -36,7 +36,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
       </a>
       <h3>payment_integration</h3>
       <p>Practical payment integration patterns for real-world backend systems, including transaction flows and API integration strategies.</p>
-      <p><a href="https://github.com/ProducerG-hub/payment_integration">View Repository</a></p>
+      <a href="https://github.com/ProducerG-hub/payment_integration" style="display: inline-block; padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background-color 0.2s;">View Repository</a>
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
       </a>
       <h3>mluetechnology_website</h3>
       <p>Official website project for Mlue Technology, built to present services and strengthen the brand's online presence.</p>
-      <p><a href="https://github.com/ProducerG-hub/mluetechnology_website">View Repository</a></p>
+      <a href="https://github.com/ProducerG-hub/mluetechnology_website" style="display: inline-block; padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background-color 0.2s;">View Repository</a>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 14px; box-shadow: 0 8px 18px rgba(27, 31, 36, 0.12);">
       <a href="https://github.com/ProducerG-hub/node_js-Vs-PostgreSQL">
@@ -54,7 +54,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
       </a>
       <h3>node_js-Vs-PostgreSQL</h3>
       <p>Example project demonstrating PostgreSQL integration in an Express and Node.js application with practical backend structure.</p>
-      <p><a href="https://github.com/ProducerG-hub/node_js-Vs-PostgreSQL">View Repository</a></p>
+      <a href="https://github.com/ProducerG-hub/node_js-Vs-PostgreSQL" style="display: inline-block; padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background-color 0.2s;">View Repository</a>
     </td>
   </tr>
 </table>
