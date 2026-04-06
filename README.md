@@ -15,7 +15,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Languages: JavaScript, Python, HTML, Embedded JavaScript, CSS | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Embedded JavaScript](https://img.shields.io/badge/Embedded%20JavaScript-339933?style=flat&logo=node.js&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - Version Control: Git, GitHub | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - Tools: Postman, Visual Studio Code | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-- Other Focus Areas: API design, payment integration, authentication, system architecture
+- Other Focus Areas: API design, payment integration, authentication, system architecture and Graphic design
 
 ## Featured Projects
 - [authentication-system-api](https://github.com/ProducerG-hub/authentication-system-api)
