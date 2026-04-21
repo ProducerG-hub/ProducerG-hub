@@ -15,10 +15,9 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Languages: JavaScript, Python, HTML, CSS
 - Version Control: Git, GitHub
 - Tools: Postman, Visual Studio Code
-- Frameworks/Libraries: Bootstrap (for frontend styling)
 - Other Focus Areas: API design, payment integration, authentication, system architecture and Graphic design
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,python,javascript,python,html,css,git,github,postman,vscode,bootstrap,pixellab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,python,javascript,python,html,css,git,github,postman,vscode,pixellab&theme=light)](https://skillicons.dev)
 
 ## Featured Projects
 <table cellspacing="15" cellpadding="10">
