@@ -1,8 +1,8 @@
 # Hi, I'm Gwamaka Mwakabuta
 
-I am a Computer Engineer and Node.js backend developer focused on building real-world systems.
-I enjoy designing reliable APIs, integrating payments, and building secure authentication workflows.
-Student at Dar es Salaam Institute of Technology (DIT) with a passion for practical backend development and system architecture.
+- I am a Computer Engineer and Node.js backend developer focused on building real-world systems.
+- I enjoy designing reliable APIs, integrating payments, and building secure authentication workflows.
+- Student at Dar es Salaam Institute of Technology (DIT) with a passion for practical backend development and system architecture.
 
 ## What I Do
 - Build backend services with Node.js and Express.
