@@ -2,6 +2,7 @@
 
 I am a Computer Engineer and Node.js backend developer focused on building real-world systems.
 I enjoy designing reliable APIs, integrating payments, and building secure authentication workflows.
+Student at Dar es Salaam Institute of Technology (DIT) with a passion for practical backend development and system architecture.
 
 ## What I Do
 - Build backend services with Node.js and Express.
@@ -18,7 +19,7 @@ I enjoy designing reliable APIs, integrating payments, and building secure authe
 - Frameworks/Libraries: Bootstrap
 - Other Focus Areas: API design, payment integration, authentication, system architecture and Graphic design
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,python,javascript,python,html,css,git,github,postman,vscode,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,javascript,python,html,css,git,github,postman,vscode,bootstrap&theme=light)](https://skillicons.dev)
 
 ## Featured Projects
 <table cellspacing="15" cellpadding="10">
