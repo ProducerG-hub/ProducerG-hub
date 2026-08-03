@@ -1,25 +1,27 @@
 # Hi, I'm Gwamaka Mwakabuta
 
-- I am a Computer Engineer and Node.js backend developer focused on building real-world systems.
+- I am a Computer Engineer and backend developer focused on building real-world systems.
 - I enjoy designing reliable APIs, integrating payments, and building secure authentication workflows.
 - Student at Dar es Salaam Institute of Technology (DIT) with a passion for practical backend development and system architecture.
 
 ## What I Do
-- Build backend services with Node.js and Express.
+- Build backend services with Node.js and Express, Java and Spring Boot.
 - Design and connect PostgreSQL-backed applications.
 - Implement authentication and password security workflows.
 - Develop practical web solutions for business use cases.
+- GIS Analysis and Mapping.
 
 ## Tech Stack
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js, Java, Spring Boot
 - Database: PostgreSQL, MongoDB
 - Languages: JavaScript, Python, HTML, CSS
 - Version Control: Git, GitHub
 - Tools: Postman, Visual Studio Code
 - Frameworks/Libraries: Bootstrap
+- GIS Tools: QGIS, Google Earth Engine
 - Other Focus Areas: API design, payment integration, authentication, system architecture and Graphic design
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,javascript,python,html,css,git,github,postman,vscode,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,java,spring,postgresql,mongodb,javascript,python,html,css,git,github,postman,vscode,bootstrap&theme=light)](https://skillicons.dev)
 
 ## Featured Projects
 <table cellspacing="15" cellpadding="10">
@@ -69,10 +71,21 @@
 ## Connect With Me
 - Portfolio: https://www.mluetechnology.me/
 - LinkedIn: https://www.linkedin.com/in/gwamaka-mwakabuta-251140363
+- Whatsapp: [+255 752 804 154](https://wa.me/255752804154)
 - Email: [gwamakamwakabuta@gmail.com](mailto:gwamakamwakabuta@gmail.com)
 
 ## GitHub Stats
-![Gwamaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProducerG-hub&show_icons=true&theme=radical)
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProducerG-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProducerG-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProducerG-hub&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProducerG-hub&theme=tokyo-night&hide_border=true" width="95%" />
+
+</div>
 
 ## Top Languages
 ![Gwamaka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProducerG-hub&layout=compact&theme=radical)
