@@ -74,7 +74,7 @@
 - Whatsapp: [+255 752 804 154](https://wa.me/255752804154)
 - Email: [gwamakamwakabuta@gmail.com](mailto:gwamakamwakabuta@gmail.com)
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/ProducerG-hub">
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ProducerG-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -87,7 +87,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <p align="center">
   <img
